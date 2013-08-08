@@ -1,26 +1,30 @@
 <?php 
+/*
+ * Script to automatically download Transifex translations for Magento
+ * Sorry for the nineties-style of coding
+ */
+
 // Login credentials for Transifex
 include_once 'private.php';
 
 // Project definitions
 $project_slug = 'magento-ce-17'; // https://www.transifex.com/projects/p/magento-ce-17/
 $language_codes = array(
-    'de_DE',
-    'tr_TR',
-    'nl_NL',
-    'zh_TW',
-    'fr_FR',
-    'he_IL',
-    'ta_IN',
-    'ro_RO',
+    'de_DE' => 'de_DE',
+    'tr_TR' => 'tr_TR',
+    'nl_NL' => 'nl',
+    'zh_TW' => 'zh_TW',
+    'fr_FR' => 'fr',
+    'he_IL' => 'he_IL',
+    'ta_IN' => 'ta_IN',
+    'ro_RO' => 'ro_RO',
 );
 
 // Create the needed folders        
 $base_dir = dirname(dirname(__FILE__));
-echo $basedir; exit;
 @mkdir($base_dir.'/'.$project_slug);
-foreach($language_codes as $language_code) {
-    @mkdir($base_dir.'/'.$project_slug.'/'.$language_code);
+foreach($language_codes as $language_label => $language_code) {
+    @mkdir($base_dir.'/'.$project_slug.'/'.$language_label);
 }
 
 // Make the call
@@ -35,7 +39,7 @@ if(empty($resources)) {
 foreach($resources as $resource) {
 
     // Loop through the languages
-    foreach($language_codes as $language_code) {
+    foreach($language_codes as $language_label => $language_code) {
 
         // Start
         $resource_slug = $resource->slug;
@@ -65,7 +69,7 @@ foreach($resources as $resource) {
         $content = implode("\n", $lines);
 
         // Contruct the file
-        $file = $base_dir.'/'.$project_slug.'/'.$language_code.'/'.$resource->name.'.csv';
+        $file = $base_dir.'/'.$project_slug.'/'.$language_label.'/'.$resource->name.'.csv';
         file_put_contents($file, $content);
         sleep(1);
     }
