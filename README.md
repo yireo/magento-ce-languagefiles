@@ -11,7 +11,7 @@ use in your Magento project, ZIP-files need to be created and language-files nee
 renamed. This GitHub project does that gathering for you.
 
 ## FAQ: How to use these translations?
-Within this GitHub project, browse to the `magento-ce-17/packages` folder and download the package of
+Within this GitHub project, browse to the `packages` folder and download the package of
 your required language. Next, upload this ZIP-package (for instance `magento-ce-17-de_DE.zip`) to your
 Magento site.
 
