@@ -10,6 +10,8 @@ things easily. We have worked together with the Transifex team to add support fo
 use in your Magento project, ZIP-files need to be created and language-files need to be downloaded and 
 renamed. This GitHub project does that gathering for you.
 
+Note: These sources are automatically updated through a cronjob, every 8 hours.
+
 ## FAQ: How to use these translations?
 Within this GitHub project, browse to the `packages` folder and download the package of
 your required language. Next, upload this ZIP-package (for instance `magento-ce-17-de_DE.zip`) to your
