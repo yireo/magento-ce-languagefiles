@@ -7,6 +7,9 @@
 // Login credentials for Transifex
 include_once 'private.php';
 
+// Some settings
+$verbose = 0;
+
 // Project definitions
 $project_slug = 'magento-ce-17'; // https://www.transifex.com/projects/p/magento-ce-17/
 $language_codes = array(
@@ -71,7 +74,8 @@ foreach($resources as $resource) {
         // Contruct the file
         $file = $base_dir.'/'.$project_slug.'/'.$language_label.'/'.$resource->name.'.csv';
         file_put_contents($file, $content);
-        sleep(1);
+
+        if($sleep > 0) sleep((int)$sleep);
     }
 }
 
