@@ -1,4 +1,7 @@
 "%s","%s的"
+"%s role is a special one and can\'t be changed.","%s role is a special one and can\'t be changed."
+"%s role is a special one and can\'t be deleted.","%s role is a special one and can\'t be deleted."
+"%s role is protected.","%s role is protected."
 "ACL Attribute Rules","ACL屬性規則"
 "ACL Attributes Information","ACL屬性信息"
 "Add","加"
