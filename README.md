@@ -1,7 +1,7 @@
 # Magento CE language-files
 This project contains language-files for usage with Magento Community
 Edition, translated through the following Transifex project:
-https://www.transifex.com/projects/p/magento-ce-17/
+https://www.transifex.com/projects/p/magento-ce-1x/
 
 ## About this project
 Transifex is a tool that allows for collaborated translations. Anybody can join in and start translating
@@ -14,7 +14,7 @@ Note: These sources are automatically updated through a cronjob, every 8 hours.
 
 ## FAQ: How to use these translations?
 Within this GitHub project, browse to the `packages` folder and download the package of
-your required language. Next, upload this ZIP-package (for instance `magento-ce-17-de_DE.zip`) to your
+your required language. Next, upload this ZIP-package (for instance `magento-ce-1x-de_DE.zip`) to your
 Magento site.
 
 Within your Magento folders, locate the `app/locale/` folder. Your language should be listed here as a 
@@ -22,7 +22,7 @@ subfolder (for instance `app/locale/de_DE`). If the folder does not exist, creat
 language-files of the ZIP-package to this folder.
 
 ## FAQ: How to help translating?
-Go to https://www.transifex.com/projects/p/magento-ce-17/ and open up a new Transifex account. Join one
+Go to https://www.transifex.com/projects/p/magento-ce-1x/ and open up a new Transifex account. Join one
 of the language-teams. Once your request to join a team is approved, you can start translating.
 
 ## FAQ: How to clone this project?
