@@ -11,7 +11,7 @@ include_once 'private.php';
 $sleep = 0;
 
 // Project definitions
-$project_slug = 'magento-ce-17'; // https://www.transifex.com/projects/p/magento-ce-17/
+$project_slug = 'magento-ce-1x'; // https://www.transifex.com/projects/p/magento-ce-1x/
 $language_codes = array(
     'de_DE' => 'de_DE',
     'tr_TR' => 'tr_TR',
