@@ -1,6 +1,7 @@
 "--Please Select--","-- 請選擇 --"
 "API Login ID","API 登錄 ID"
 "Accepted Currency","接受的匯率"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Authorize.net 直接發表"
 "Card Verification Number","卡片驗證號碼"
 "Card Verification Number Visual Reference","信用卡驗證號碼 視覺參考"

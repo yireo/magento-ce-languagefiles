@@ -1,6 +1,7 @@
 "--Please Select--","--Maak een keuze--"
 "API Login ID","API Login ID"
 "Accepted Currency","Geaccepteerde valuta"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Authorize.net Direct Post"
 "Card Verification Number","Card Verificatie Nummer"
 "Card Verification Number Visual Reference","Card Verificate Nummer Visuele Referentie"

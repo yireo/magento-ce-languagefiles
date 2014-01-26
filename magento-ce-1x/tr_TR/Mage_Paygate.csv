@@ -29,6 +29,7 @@
 "Merchant's Email","Üye İşyeri E-Mail Adresi"
 "Minimum Order Total","En Düşük Sipariş Toplamı"
 "New Order Status","Yeni Sipariş Durumu"
+"Parent Authorize.Net transaction (ID %s) expired","Parent Authorize.Net transaction (ID %s) expired"
 "Payment Action","Ödeme İşlemi"
 "Payment authorization error.","Ödeme onay hatası."
 "Payment canceling error.","Ödeme iptal edilirken hata oluştu."

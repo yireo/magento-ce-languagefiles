@@ -1,4 +1,3 @@
-"%1$s has been added to your wishlist. Click <a href=""%2$s"">here</a> to continue shopping.","%1$s கள் உங்கள் விருப்பப்பட்டியலில் சேர்க்கப்பட்டுள்ளது.  <a href=""%2$s""> ஷாப்பிங் தொடர .இங்கே சொடுக்கவும் </ a> "
 "%1$s has been updated in your wishlist.","உங்களது விருப்பப்பட்டியலில் %1s புதிபிக்கப்பட்டுள்ளது."
 "%d product(s) have been added to shopping cart: %s.","%d பொருள் (கள்) வணிக வண்டி சேர்க்கப்பட்டுள்ளது:%s கள்."
 "%s for ""%s"".","% s ""% s"" க்கு."
@@ -84,7 +83,7 @@
 "This product(s) is currently out of stock","இந்த தயாரிப்பு (கள்) கையிருப்பு தற்போது இல்லை"
 "Unable to add the following product(s) to shopping cart: %s.","%s வணிக வண்டி பின்வரும் பொருள் (கள்) சேர்க்க முடியவில்லை."
 "Update Wishlist","விருப்பப்பட்டியலை புதுப்பிக்கவும்"
-"User description","பயனர் விவரம்"
+"User Description","User Description"
 "View Details","விபரங்கள் பார்வையிட"
 "View Product","பொருள் பார்வையிட"
 "What's this?","இது என்ன?"

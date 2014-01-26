@@ -1,6 +1,7 @@
 "--Please Select--","--Votre choix--"
 "API Login ID","ID de connexion de l'API"
 "Accepted Currency","Devise acceptée"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Soumission directe Authorize.net"
 "Card Verification Number","Numéro de vérification"
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte"

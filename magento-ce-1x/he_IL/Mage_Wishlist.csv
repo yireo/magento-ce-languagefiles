@@ -1,4 +1,3 @@
-"%1$s has been added to your wishlist. Click <a href=""%2$s"">here</a> to continue shopping.","%1$s נוסף לרשימת המשאלות. <a href=""%2$s"">המשך בקניות</a>."
 "%1$s has been updated in your wishlist.","%1$s עודכן ברשימת המשאלות שלך."
 "%d product(s) have been added to shopping cart: %s.","%d מוצר(ים) נוספו לסל הקניות: %s."
 "%s for ""%s"".","%s עבור ""%s""."
@@ -83,7 +82,7 @@
 "This product(s) is currently out of stock","המוצר(ים) אינם במלאים"
 "Unable to add the following product(s) to shopping cart: %s.","לא ניתן להוסיף את המוצר(ים) הבאים לעגלת הקניות:  %s."
 "Update Wishlist","עדכן רשימת המשאלות"
-"User description","תיאור משתמש"
+"User Description","User Description"
 "View Details","הצג פרטים"
 "View Product","צפה במוצר"
 "What's this?","מה זה?"

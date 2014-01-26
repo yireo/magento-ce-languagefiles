@@ -1,6 +1,7 @@
 "--Please Select--","--தேர்ந்தெடுக்க--"
 "API Login ID","API உள்நுழைவு அடையாளம்"
 "Accepted Currency","நாணயம் ஏற்றுக் கொள்ளப்பட்டது"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Authorize.net நேரடி போஸ்ட் "
 "Card Verification Number","அட்டை சரிபார்ப்பு எண்"
 "Card Verification Number Visual Reference","அட்டை சரிபார்க்கும் எண் பார்வை குறிப்பு"

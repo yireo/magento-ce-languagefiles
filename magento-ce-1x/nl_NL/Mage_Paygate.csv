@@ -29,6 +29,7 @@
 "Merchant's Email","Handelaar E-mail"
 "Minimum Order Total","Minimale bestelwaarde"
 "New Order Status","Status nieuwe bestelling"
+"Parent Authorize.Net transaction (ID %s) expired","Parent Authorize.Net transaction (ID %s) expired"
 "Payment Action","Betalingsactie"
 "Payment authorization error.","Betaling autorisatiefout."
 "Payment canceling error.","Payment canceling error."

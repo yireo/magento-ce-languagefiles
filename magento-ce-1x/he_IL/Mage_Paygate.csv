@@ -29,6 +29,7 @@
 "Merchant's Email","Merchant's Email"
 "Minimum Order Total","סכום מינימלי להזמנה"
 "New Order Status","סטטוס של הזמנה חדשה"
+"Parent Authorize.Net transaction (ID %s) expired","Parent Authorize.Net transaction (ID %s) expired"
 "Payment Action","פעולת תשלום"
 "Payment authorization error.","שגיאה בהרשאת תשלום."
 "Payment canceling error.","Payment canceling error."

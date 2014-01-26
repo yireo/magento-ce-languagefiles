@@ -1,6 +1,7 @@
 "--Please Select--","--Lütfen Seçin--"
 "API Login ID","API Oturum Kodu"
 "Accepted Currency","Kabul Edilen Para Birimi"
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Amount of %s approved by payment gateway. Transaction ID: ""%s""."
 "Authorize.net Direct Post","Authorize.net Doğrudan Posta"
 "Card Verification Number","Kart Doğrulama Numarası"
 "Card Verification Number Visual Reference","Kart Doğrulama Numarası Görsel Referansı"

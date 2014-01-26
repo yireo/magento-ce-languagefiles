@@ -29,6 +29,7 @@
 "Merchant's Email","Email du commerçant"
 "Minimum Order Total","Montant mini de commande"
 "New Order Status","Statut d'une nouvelle commande"
+"Parent Authorize.Net transaction (ID %s) expired","Parent Authorize.Net transaction (ID %s) expired"
 "Payment Action","Action de paiement"
 "Payment authorization error.","Erreur d'autorisation de paiement."
 "Payment canceling error.","Erreur d'annulation de paiement."

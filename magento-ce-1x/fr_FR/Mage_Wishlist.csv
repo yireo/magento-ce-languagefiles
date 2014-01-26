@@ -1,4 +1,3 @@
-"%1$s has been added to your wishlist. Click <a href=""%2$s"">here</a> to continue shopping.","%1$s a été ajouté à votre liste d'envies. <a href=""%2$s"">Cliquez ici</a> pour continuer vos achats."
 "%1$s has been updated in your wishlist.","%1$s a été mis à jour dans votre liste d'envies."
 "%d product(s) have been added to shopping cart: %s.","%d produits ont été ajoutés à votre panier : %s."
 "%s for ""%s"".","%s pour ""%s""."
@@ -83,7 +82,7 @@
 "This product(s) is currently out of stock","Ce produit est momentanément épuisé"
 "Unable to add the following product(s) to shopping cart: %s.","Impossible d'ajouter au panier les produits suivants : %s."
 "Update Wishlist","Mettre à jour"
-"User description","Description utilisateur"
+"User Description","User Description"
 "View Details","Voir les détails"
 "View Product","Voir produit"
 "What's this?","Qu'est-ce que c'est ?"

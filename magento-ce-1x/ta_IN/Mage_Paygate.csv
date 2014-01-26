@@ -29,6 +29,7 @@
 "Merchant's Email","வணிகரின்  மின்னஞ்சல்"
 "Minimum Order Total","மிக குறைவான மொத்த தொகை "
 "New Order Status","புதிய ஆர்டரின் நிலை "
+"Parent Authorize.Net transaction (ID %s) expired","Parent Authorize.Net transaction (ID %s) expired"
 "Payment Action","பணம் செலுத்துவதர்க்கான  அடுத்த அடி "
 "Payment authorization error.","தங்களின் பண பரிவத்தனையில்பிழை ஏற்பட்டுள்ளது"
 "Payment canceling error.","கட்டணம் ரத்துசெய்வதில் பிழை."
