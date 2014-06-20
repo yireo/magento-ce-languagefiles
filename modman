@@ -1,0 +1,6 @@
+# Map the language folder from magento-ce-1x
+# into app/locale of your magento installation.
+
+magento-ce-1x/de_DE     app/locale/de_DE
+magento-ce-1x/fr_FR     app/locale/fr_FR
+magento-ce-1x/nl_NL     app/locale/nl_NL

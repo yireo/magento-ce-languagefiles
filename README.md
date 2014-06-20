@@ -35,3 +35,8 @@ from the project. Next, run the script `update/update.php` using a PHP command-l
 ## Limitations
 Translation of email-templates (`app/locale/en_US/template/email`) is currently not supported by
 Transifex, so therefor those files are not included here either. 
+
+## Using modman
+Clone this repo into your `magento/.modman` folder. You need to have modman installed: https://github.com/colinmollenhour/modman
+
+Optionally modify the `modman` file to include or exclude the languages you would like. Run `modman repair`. Enable languages in your magento installation.
