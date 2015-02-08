@@ -1,5 +1,5 @@
 <?php 
 // Login credentials for Transifex
-$tx_username = 'foo';
-$tx_password = 'bar';
+$txUsername = 'foo';
+$txPassword = 'bar';
 

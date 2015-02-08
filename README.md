@@ -32,6 +32,14 @@ bundle these language-files and create packages. Clone this project. Next, copy 
 to `update/private.php` and enter your own Transifex credentials. Use `.gitignore` to exclude that file
 from the project. Next, run the script `update/update.php` using a PHP command-line client.
 
+## FAQ: How can I add new languages to this project?
+When you have added a new language to the Transifex project, that project will be automatically
+picked up by cronjob to merge it with the GitHub files. If you pick a language code in Transifex
+that directly matches the Magento locale (check the `app/locale` folder), everything works fine.
+However, if the two language codes do not match, please make a pull request for the file 
+`update/mapping.php` in this repository. Note that the script will not copy translations from a language
+in the project if the translations are under 10%.
+
 ## Limitations
 Translation of email-templates (`app/locale/en_US/template/email`) is currently not supported by
 Transifex, so therefor those files are not included here either. 
