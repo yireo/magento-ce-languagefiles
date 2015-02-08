@@ -1,3 +1,4 @@
+" or "," or "
 "'%value%' appears to be a DNS hostname but cannot extract TLD part","'%value%' bir DNS sunucu adı gibi gözüküyor ancak domain adı kısmı ayıklanamadı"
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list","'%value%' bir DNS sunucu adı gibi gözüküyor ancak domain adı bilinen domain tipleri arasında bulunamadı"
 "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","'%value%' bir DNS sunucu adı gibi gözüküyor ancak bu uzantı tipi için geçerli şekle uymuyor '%tld%'"
@@ -408,6 +409,7 @@ Sitemizde hesap açarak, daha hızlı alışveriş yapabilir, siparişinizi bird
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Vergi numarasını ön sayfada göstermek için, Vergi Numarası Ön Sayfada Gösterilsin seçeneğini Evet olarak seçiniz."
 "Total","Toplam"
 "Type","Tip"
+"Unable to save the customer.","Unable to save the customer."
 "Unknown","Bilinmeyen"
 "Unsubscribe from Newsletter","Duyuru Aboneliğinden Ayrıl"
 "Update","Güncelle"
@@ -464,3 +466,4 @@ Sitemizde hesap açarak, daha hızlı alışveriş yapabilir, siparişinizi bird
 "Zip/Postal Code","Zip/Posta Kodu"
 "n/a","yok"
 "or","veya"
+"register","register"

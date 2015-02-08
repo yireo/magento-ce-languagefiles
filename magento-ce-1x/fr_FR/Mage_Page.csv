@@ -1,4 +1,5 @@
 "%s Item(s)","%s article(s)"
+"&copy; 2012 Magento Demo Store. All Rights Reserved.","&copy; 2012 Magento Demo Store. All Rights Reserved."
 "&copy; 2013 Magento Demo Store. All Rights Reserved.","&copy; 2013 Magento Demo Store. All Rights Reserved."
 "(Shift-)Click or drag to change value","Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 "(ver. %s)","(ver. %s)"
@@ -63,6 +64,7 @@
 "Select date","Sélectionner la date"
 "Show","Afficher"
 "This is a demo store. Any orders placed through this store will not be honored or fulfilled.","Ceci est une boutique de démonstration. Aucune commande passée sur cette boutique ne sera honorée."
+"This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=""%s"">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.","This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=""%s"">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below."
 "Time selection:","Sélection de l'heure :"
 "Time:","Heure :"
 "Welcome, %s!","Bienvenue, %s !"

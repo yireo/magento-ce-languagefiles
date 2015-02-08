@@ -25,6 +25,7 @@
 "Invalid amount for partial authorization.","部分身份驗證無效。"
 "Invalid amount for refund.","退款額度無效。"
 "Invalid split tenderId ID.","拆分的 tenderId ID 無效。"
+"Invalid transaction ID.","Invalid transaction ID."
 "Maximum Order Total","最大訂單總數"
 "Merchant's Email","商家電子郵件"
 "Minimum Order Total","最小訂單總數"

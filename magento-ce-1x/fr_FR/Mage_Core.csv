@@ -150,6 +150,7 @@
 "Input type ""%value%"" not found in the input types list.","Le type d'entrée ""%value%"" n'a pas été trouvé dans la liste des types d'entrée."
 "Invalid URL '%value%'.","URL invalide : '%value%'."
 "Invalid base url type","Type d'URL de base invalide"
+"Invalid block name to set child %s: %s","Invalid block name to set child %s: %s"
 "Invalid block type: %s","Type de bloc non valide : %s"
 "Invalid block: %s","Bloc non valide : %s"
 "Invalid connection","Connexion invalide"

@@ -1,3 +1,4 @@
+" or "," or "
 "'%value%' appears to be a DNS hostname but cannot extract TLD part","%value%' נראה כשם שרת  DNS אך לא מצליח לשלוף חלק TLD "
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list","%value%' נראה כשם שרת DNS אבל לא תואם רשימות קיימות של  TLD "
 "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","'%value%' נראה כשם שרת  DNS אבל לא תואם שמות שרת עבור  TLD '%tld%'"
@@ -407,6 +408,7 @@
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","To show VAT number on frontend, set Show VAT Number on Frontend option to Yes."
 "Total","סה""כ"
 "Type","סוג"
+"Unable to save the customer.","Unable to save the customer."
 "Unknown","לא ידוע"
 "Unsubscribe from Newsletter","בטל הרשמה לניוזלטר"
 "Update","עדכן"
@@ -463,3 +465,4 @@
 "Zip/Postal Code","מיקוד/ת.ד."
 "n/a","לא זמין"
 "or","או"
+"register","register"

@@ -3,6 +3,7 @@
 "Enable External Cache","啟用外部快取"
 "External Cache Control","外部快取控制"
 "External Full Page Cache Settings","外部全頁快取設定"
+"External Page Cache","External Page Cache"
 "External full page cache.","外部全頁快取。"
 "Failed to load external cache control","讀取外部快取控制產生錯誤"
 "Flush External Page Cache","重新整理外部頁面快取"

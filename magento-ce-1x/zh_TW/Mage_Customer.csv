@@ -1,3 +1,4 @@
+" or "," or "
 "'%value%' appears to be a DNS hostname but cannot extract TLD part","""%value%"" 似乎是一個 DNS 主機名，但無法提取 TLD 部分"
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list","""%value%"" 似乎是一個 DNS 主機名，但無法與已知列表匹配 TLD"
 "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","""%value%"" 似乎是一個 DNS 主機名，但無法與 TLD ""%tld%"" 的主機名模式相匹配。"
@@ -407,6 +408,7 @@
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","增值稅號碼顯示在前端，設置選項為是""前端顯示增值稅號碼。"""
 "Total","總數"
 "Type","類型"
+"Unable to save the customer.","Unable to save the customer."
 "Unknown","未知"
 "Unsubscribe from Newsletter","退訂新聞郵件"
 "Update","更新"
@@ -463,3 +465,4 @@
 "Zip/Postal Code","郵政編碼"
 "n/a","不可用"
 "or","或"
+"register","register"

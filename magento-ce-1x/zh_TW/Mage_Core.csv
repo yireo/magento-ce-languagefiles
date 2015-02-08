@@ -150,6 +150,7 @@
 "Input type ""%value%"" not found in the input types list.","輸入類型""%value%""無法在輸入類型列表中找到。"
 "Invalid URL '%value%'.","無效的URL'%值%。"""
 "Invalid base url type","無效的基礎 URL 類型"
+"Invalid block name to set child %s: %s","Invalid block name to set child %s: %s"
 "Invalid block type: %s","無效的區塊類型：%s"
 "Invalid block: %s","無效的區塊：%s"
 "Invalid connection","無效的連接"

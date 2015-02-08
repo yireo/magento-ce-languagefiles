@@ -25,6 +25,7 @@
 "Invalid amount for partial authorization.","Kısmi doğrulama için hatalı toplam."
 "Invalid amount for refund.","İade için hatalı toplam."
 "Invalid split tenderId ID.","Hatalı tenderId No."
+"Invalid transaction ID.","Invalid transaction ID."
 "Maximum Order Total","En Yüksek Sipariş Toplamı"
 "Merchant's Email","Üye İşyeri E-Mail Adresi"
 "Minimum Order Total","En Düşük Sipariş Toplamı"

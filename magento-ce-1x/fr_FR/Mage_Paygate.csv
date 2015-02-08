@@ -25,6 +25,7 @@
 "Invalid amount for partial authorization.","Montant invalide pour autorisation partielle."
 "Invalid amount for refund.","Montant invalide pour le remboursement."
 "Invalid split tenderId ID.","ID de tenderId invalide"
+"Invalid transaction ID.","Invalid transaction ID."
 "Maximum Order Total","Montant maxi de commande"
 "Merchant's Email","Email du commerçant"
 "Minimum Order Total","Montant mini de commande"
