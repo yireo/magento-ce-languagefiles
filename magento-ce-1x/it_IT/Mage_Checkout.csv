@@ -62,7 +62,7 @@
 "Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","Clicca <a href=""%s"" onclick=""this.target=\'_blank\'"">questo link</a> per stampare una copia della conferma del tuo ordine."
 "Click <a href=""%s"">here</a> to continue shopping.","Clicca <a href=""%s"">qui</a> per continuare l'acquisto."
 "Close","Chiuso"
-"Company","Società"
+"Company","Ragione Sociale"
 "Condition Name","Nome condizione"
 "Configurable Product Image","Immagine prodotto configurabile"
 "Configure Cart Item","Configura carrello articolo"
