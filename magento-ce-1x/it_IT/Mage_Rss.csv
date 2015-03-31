@@ -2,7 +2,7 @@
 "%s - Special Products","%s – prodotti speciale"
 "%s RSS Feed","%s RSS Feed"
 "%s has reached a quantity of %s.","%s ha raggiunto la quantità di %s."
-"%s\'s Wishlist","%s\'s Wishlist"
+"%s\'s Wishlist","Wishlist di %s"
 "Cannot retrieve the wishlist","Impossibile recuperare wishlist"
 "Catalog","Catalogo"
 "Category Feeds","Categorie Feeds"

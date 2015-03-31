@@ -1,5 +1,5 @@
 "%s Index process is working now. Please try run this process later.","%s Il processo di indicizzazione è attualmente in esecuzione. Si prega di provare ad avviare questo processo pilù tardi."
-"%s index was rebuilt.","%s l\' indice è stato ricostruito."
+"%s index was rebuilt.","%s indice ricostruito."
 "'%s' Index Process Information","'%s' Informazione del processo di indicizzazione"
 "Action","Azione"
 "Cannot initialize the indexer process.","Impossibile inizializzare il processo di indicizzazione"
