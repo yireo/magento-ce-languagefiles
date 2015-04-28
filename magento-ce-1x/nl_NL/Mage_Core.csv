@@ -158,7 +158,7 @@
 "Invalid layout update handle","Ongeldige layout-update handeling"
 "Invalid messages storage ""%s"" for layout messages initialization","Ongeldige berichten opgeslagen ""%s"" voor layout bericht initialisatie"
 "Invalid query","Ongeldige zoekopdracht"
-"Invalid transactional email code: %s","Invalid transactional email code: %s"
+"Invalid transactional email code: %s","Foutieve transactionele email code: %s"
 "Invalid website\'s configuration path: %s","Ongeldig website\'s configuratie pad: %s"
 "JavaScript Settings","JavaScript instellingen"
 "Layout","Layout"
