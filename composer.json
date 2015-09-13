@@ -1,0 +1,30 @@
+{
+    "name": "yireo/magento-ce-languagefiles",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "homepage": "https://github.com/yireo/magento-ce-languagefiles",
+    "description": "Magento language files autocreated via Transifex",
+    "keywords":[ "composer-installer", "magento"],
+    "authors": [
+        {
+            "name": "Jisse Reitsma (Yireo)",
+            "email": "jisse@yireo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev":{
+        "phpunit/phpunit":"*",
+        "composer/composer":"*@dev"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ],
+    "extra":{
+        "magento-locale-dir": "magento-ce-1x/"
+    }
+}

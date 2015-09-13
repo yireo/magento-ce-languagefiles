@@ -1,5 +1,5 @@
 <?php 
-/*
+/**
  * Script to automatically download Transifex translations for Magento
  * Sorry for the nineties-style of coding
  */
